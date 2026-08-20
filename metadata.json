@@ -1,0 +1,8 @@
+{
+  "name": "Final Remix: Jain E-Pathshala",
+  "description": "A premium high-fidelity educational app prototype for Jain Pathshala students, parents, and teachers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
